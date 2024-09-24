@@ -22,24 +22,22 @@ cuDNN 版本：8.1.1
 
 情绪识别：
 
-![image](https://github.com/user-attachments/assets/8d667117-003f-4656-8243-a2964048833d)
+![image](https://github.com/user-attachments/assets/9ca8c058-c7cb-4acc-a763-b1912622bb46)
 
-![image](https://github.com/user-attachments/assets/2f689a9d-4a3b-4fb5-9cc3-191163a0b796)
+![image](https://github.com/user-attachments/assets/f7673486-8da8-4602-ac1d-28dbfab50150)
 
 人脸识别：
 
-![image](https://github.com/user-attachments/assets/7f30232f-88f7-43eb-8640-651595b3d86b)
+![image](https://github.com/user-attachments/assets/482d5bc5-9f00-4a27-acb3-9f446a674e26)
 
-![image](https://github.com/user-attachments/assets/0fc28e85-746b-4e62-9626-07daa53ba7bc)
+![image](https://github.com/user-attachments/assets/1a4f7ac7-b7c6-4a0c-9542-bf47f62f7fb0)
 
-![image](https://github.com/user-attachments/assets/002ed617-6cff-4d5f-95ac-85bcfdbc616e)
+![image](https://github.com/user-attachments/assets/f4dc7ab1-d2b4-438c-b00b-83367edf83e8)
 
 可视化界面：
 
-![image](https://github.com/user-attachments/assets/7e82ae14-b95d-47e4-b5ba-7ecdcafd43d0)
+![image](https://github.com/user-attachments/assets/8d459e3b-d4b7-4f69-b974-d1cf404c2161)
 
-![image](https://github.com/user-attachments/assets/2643a757-b581-4a86-b613-d1bc2d8cfeac)
+![image](https://github.com/user-attachments/assets/dfab8231-f67f-45ae-a29f-dee8d5c0b4e3)
 
-![image](https://github.com/user-attachments/assets/d35ab1cb-57dc-4bcc-a20f-cc09d44baf54)
-
-
+![image](https://github.com/user-attachments/assets/ecada3b0-8130-4755-a556-865961c20348)
