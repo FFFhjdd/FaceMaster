@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ac521a9-cfcc-475e-bae0-fda2d5fbd379" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/camera_emotion_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FER2013.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_chinese_text_to_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camera_face_detection_cv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camera_face_detection_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyocr_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emotion_detection_cv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emotion_detection_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_detection_cv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_detection_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/凤雏.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/卧龙.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/小帅.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/小白.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/小美.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/老外A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/老外B.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/老外C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/老外D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/老黑.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_names/靓妹.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/reward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/demo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/demo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_face_detection_cv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_face_detection_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_face_recognition_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/001.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lx4S739vpBhAlyfWrBmlEgvbEA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3ac521a9-cfcc-475e-bae0-fda2d5fbd379" name="更改" comment="" />
+      <created>1726108392200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726108392200</updated>
+    </task>
+    <servers />
+  </component>
+</project>
