@@ -20,4 +20,26 @@ cuDNN 版本：8.1.1
 
 ![image](https://github.com/user-attachments/assets/2e0cb6eb-469c-4cb3-912b-bc79758be43b)
 
+情绪识别：
+
+![image](https://github.com/user-attachments/assets/8d667117-003f-4656-8243-a2964048833d)
+
+![image](https://github.com/user-attachments/assets/2f689a9d-4a3b-4fb5-9cc3-191163a0b796)
+
+人脸识别：
+
+![image](https://github.com/user-attachments/assets/7f30232f-88f7-43eb-8640-651595b3d86b)
+
+![image](https://github.com/user-attachments/assets/0fc28e85-746b-4e62-9626-07daa53ba7bc)
+
+![image](https://github.com/user-attachments/assets/002ed617-6cff-4d5f-95ac-85bcfdbc616e)
+
+可视化界面：
+
+![image](https://github.com/user-attachments/assets/7e82ae14-b95d-47e4-b5ba-7ecdcafd43d0)
+
+![image](https://github.com/user-attachments/assets/2643a757-b581-4a86-b613-d1bc2d8cfeac)
+
+![image](https://github.com/user-attachments/assets/d35ab1cb-57dc-4bcc-a20f-cc09d44baf54)
+
 
